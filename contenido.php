@@ -1,6 +1,7 @@
 <?php
 // Conectando, seleccionando la base de datos
-$link = mysqli_connect('localhost', 'user_opcional', 'pass_opcional','opcional')
+$link = mysqli_connect('localhost', 'id17218785_user_opcional', '7HGsw==]GW59WP{{
+    ','id17218785_opcional')
     or die('No se pudo conectar: ' . mysql_error());
 echo 'Connected successfully';
 
